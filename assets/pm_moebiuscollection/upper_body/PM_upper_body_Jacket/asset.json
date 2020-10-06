@@ -5,16 +5,16 @@
     "es": "Chaqueta de la Coleccion Moebius"
   },
   "tags": [
-    "jacket"
-	"upper_body"
-	"mind"
-	"wearable"
-	"moebius"
+    "jacket",
+	"upper_body",
+	"mind",
+	"wearable",
+	"moebius",
 	"polygonal"
    ],
   "category": "upper_body",
   "replaces": [
-    "upper_body"
+    ""
    ],
    "hides": [
     ""

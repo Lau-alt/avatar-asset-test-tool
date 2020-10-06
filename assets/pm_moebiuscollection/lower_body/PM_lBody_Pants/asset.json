@@ -5,16 +5,16 @@
     "es": "Pantalones de la Coleccion Moebius"
   },
   "tags": [
-    "pants"
-	"lower_body"
-	"mind"
-	"wearable"
-	"moebius"
+    "pants",
+	"lower_body",
+	"mind",
+	"wearable",
+	"moebius",
 	"polygonal"
    ],
   "category": "lower_body",
   "replaces": [
-    "lower_body"
+    ""
    ],
    "hides": [
     ""

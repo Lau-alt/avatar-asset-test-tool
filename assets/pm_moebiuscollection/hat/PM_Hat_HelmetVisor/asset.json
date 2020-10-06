@@ -6,20 +6,19 @@
   },
   "tags": [
     "hat"
-	"visor"
-	"top"
-	"mind"
-	"wearable"
-	"moebius"
+	"visor",
+	"top",
+	"mind",
+	"wearable",
+	"moebius",
 	"polygonal"
    ],
   "category": "hat",
   "replaces": [
-    "mask"
-	"tiara"
-	"hat"
+    "mask",
+	"tiara",
+	"hat",
 	"helmet"
-	"top_head"
    ],
    "hides": [
     "hair"

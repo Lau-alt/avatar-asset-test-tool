@@ -5,16 +5,16 @@
     "es": "Sudadera de la Coleccion Moebius"
   },
   "tags": [
-    "sweater"
-	"upper_body"
-	"mind"
-	"wearable"
-	"moebius"
+    "sweater",
+	"upper_body",
+	"mind",
+	"wearable",
+	"moebius",
 	"polygonal"
    ],
   "category": "upper_body",
   "replaces": [
-    "upper_body"
+    ""
    ],
    "hides": [
     ""
