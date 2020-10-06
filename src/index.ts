@@ -48,7 +48,7 @@ export async function runMain(collectionFolders: string[]) {
     const buildAssetsConfig = {
       assetFoldersAbsPath: assetFolders,
       workingDirAbsPath: workingFolder.name,
-      contentBaseUrl: `https://content.decentraland.org/contents/`,
+      contentBaseUrl: `https://avatar-asset-test-tool-pm.vercel.app/`,
       collectionName: collectionFolder
     }
 
